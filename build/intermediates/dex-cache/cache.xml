@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\bucket_code\FileWordReader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="360df4b55ad345ed45134af14f2b2e07b4910ee9">
+        <dex dex="D:\bucket_code\FileWordReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6aa97c14715f2dda33126095c625d66a907efca9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\bucket_code\FileWordReader\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="D:\bucket_code\FileWordReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.2.0_89308f36353a0571653db449841091c9c547ccb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\bucket_code\FileWordReader\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="D:\bucket_code\FileWordReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.0_f949353b128940f5c35016d559f830e7fddadd99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\bucket_code\FileWordReader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a8fd4e48297210b0303ac0cae878e5d05a8673f">
+        <dex dex="D:\bucket_code\FileWordReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ec50201c3fcb57941a0bbcd41087266addebb96c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\bucket_code\FileWordReader\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="D:\bucket_code\FileWordReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.0_d9ed4f70abad780dd19405bb4f0b515751d50563\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\bucket_code\FileWordReader\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="D:\bucket_code\FileWordReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_228a798266d52b8e303077b24a35896e60b32f07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\bucket_code\FileWordReader\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="D:\bucket_code\FileWordReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.0_cb834b36043f9ab411b0a108afbe6385eb9a5529\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\bucket_code\FileWordReader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="D:\bucket_code\FileWordReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.0_762a35c87e682121058951a42ba853be9e296eb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kuliza\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\bucket_code\FileWordReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_f69ef832b53b9e758294acf0d4402ca0eabacbfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\bucket_code\FileWordReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\bucket_code\FileWordReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.0_8608d73dc8012112b9242b791c8824d8531cd6f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\bucket_code\FileWordReader\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="D:\bucket_code\FileWordReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.0_32cb16f81a16f75f95c428f3864fc7eb73496f92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\bucket_code\FileWordReader\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="D:\bucket_code\FileWordReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.2.0_74367bf994751e6a6f4f9153b229996ac7155702\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\bucket_code\FileWordReader\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="D:\bucket_code\FileWordReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.0_6af58e98a88a69b2098eb662c26cd94ffde56299\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\bucket_code\FileWordReader\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="D:\bucket_code\FileWordReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.0_9a9dff05c979162675b03a200b8e351f26eeacf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\bucket_code\FileWordReader\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="D:\bucket_code\FileWordReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.0_dab19026673dd50575ed30933c06270b0119bac1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kuliza\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="D:\bucket_code\FileWordReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_7ef846c7c6a3b398226f0e44d19ab4f10e46bef2\classes.dex" />
+    </item>
+
+</items>
